@@ -1,0 +1,35 @@
+{
+  "name": "qa-automation-assignment-lianamkhitaryan37",
+  "version": "1.0.0",
+  "description": "### Acceptance Criteria",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "wdio-mocha-framework": "^0.6.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "wdio-selenium-standalone-service": "~0.1",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.14.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vineti-Internship/qa-automation-assignment-LianaMkhitaryan37.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Liana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vineti-Internship/qa-automation-assignment-LianaMkhitaryan37/issues"
+  },
+  "homepage": "https://github.com/Vineti-Internship/qa-automation-assignment-LianaMkhitaryan37#readme"
+}
